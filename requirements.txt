@@ -1,2 +1,2 @@
-from typing import Generator
-from groq import Groq
+Generator
+Groq
